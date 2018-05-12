@@ -1,0 +1,50 @@
+_repo: Briefwechsel-zwischen-Abaelard-und-Heloisemit-der-Lebensgeschichte-Abaelards_44051
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Baumgärtner, P.
+    alias: Baumgartner, P.
+    gutenberg_agent_id: '42361'
+    url: http://www.gutenberg.org/2009/agents/42361
+covers:
+- cover_type: archival
+  image_path: 44051-h/images/cover-page.jpg
+creator:
+  authors:
+  - agent_name: Abelard, Peter
+    aliases:
+    - Abaelardus, Petrus
+    - Abélard, Pierre
+    - Abeilard, Pierre
+    birthdate: 1079
+    deathdate: 1142
+    gutenberg_agent_id: '5441'
+    url: http://www.gutenberg.org/2009/agents/5441
+    wikipedia: http://en.wikipedia.org/wiki/Pierre_Abelard
+  - agent_name: Héloïse
+    aliases:
+    - Eloisa
+    - Heloísa
+    - Heloise
+    deathdate: 1163
+    gutenberg_agent_id: '38039'
+    url: http://www.gutenberg.org/2009/agents/38039
+description: ''
+gutenberg_issued: '2013-10-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44051'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Love-letters'
+- !lcsh 'Abbesses, Christian -- France -- Correspondence'
+- !lcsh 'Theologians -- France -- Correspondence'
+- !lcsh 'Abelard, Peter, 1079-1142 -- Correspondence'
+- !lcsh 'Héloïse, approximately 1095-1163 or 1164 -- Correspondence'
+- !lcc 'PA'
+- !lcsh 'Authors, Latin (Medieval and modern) -- France -- Correspondence'
+title: Briefwechsel zwischen Abaelard und Heloise, mit der Leidensgeschichte Abaelards
+url: http://www.gutenberg.org/ebooks/44051
